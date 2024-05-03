@@ -206,6 +206,37 @@ button{
     width:30px;
 }
 .parent5{
+    font-size: 25px;
     display: flex;
-    padding-left: 40px;
+    margin-top: 100px;
+    
 }
+.class56{
+    margin-right: 347px;
+}
+.class57{
+    margin-right: 320px;
+}
+.class57{
+    margin-right: 340px;
+}
+.class61{
+    margin-right: 10px;
+}
+.class62{
+    margin-right: 10px;
+}
+
+.parent4{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 50px;
+}
+.class52{
+    margin-left: 40px;
+}
+
+a{
+    color:#686a6c
+}
+
