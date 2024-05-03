@@ -49,5 +49,163 @@ margin-left: 200px;
 button{
     padding: 7px;
     border-radius: 5px;
-    background-color:grey;
+    background-color:#a3a4a4;
+}
+.class13{
+    border: 2px solid black;
+    border-radius: 3px;
+    display: inline-block;
+    background-color:#a3a4a4; 
+    padding: 5px;
+    
+    border-radius: 15px;
+    color: black;
+    margin-right: 5px;
+    width: 145px;
+    text-align: center;
+
+}
+.class14{
+    border: 2px solid black;
+    border-radius: 3px;
+    display: inline-block;
+    background-color: #a3a4a4;
+    padding: 5px;
+    border-radius: 15px;
+    color: black;
+    width: 105px;
+    text-align: center;
+}
+.class8{
+    font-family: "Raleway", sans-serif;
+    display:grid;
+    grid-template-rows: 53px 104px 27px 40px 40px;
+    margin-left: 342px;
+    margin-top: 130px;
+    
+}
+.class9{
+    font-size: 58px;
+    color:#686a6c; 
+    font-weight: bold;
+}
+
+
+.class10{
+    font-size: 58px;
+    color:#686a6c; 
+    font-weight: bold;
+}
+.class11{
+    font-size: 25px;
+    color: #686a6c;;
+}
+.class12{
+    font-size: 25px;
+    color: #686a6c;
+}
+.classa{
+    border: 2px solid black;
+    width: 250px;
+    height: 348px;
+    
+    background-color: #140101;
+    opacity: .4;
+    color: white;
+    margin-left: 924px;
+    margin-top: -286px;
+    font-family: "Platypi", serif;
+    border-radius: 5px;
+    padding: 5px;
+}
+.class16{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.class17{
+
+   
+    margin-top: 5px;
+}
+.class18{
+    margin-top: 5px;
+}
+.class19{
+    margin-top: 5px;
+}
+.class20{
+    margin-top: 5px;
+}
+.class21{
+    margin-top: 5px;
+}
+.class22{
+    margin-top: 5px;
+}
+.class23{
+    margin-top: 5px;
+}
+.class24{
+    margin-top: 5px;
+}
+.parent2{
+    font-family: "Teachers", sans-serif;
+}
+.class28{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 45px;
+}
+.class29{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 18px;
+}
+.class30{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.parent3{
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top:65px;
+    font-family: "Lora", serif;
+}
+.class34{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:400px;
+    height:40px;
+    text-align: center;
+    background-color: #a1a3a5;
+}
+.class31 div{
+    justify-content: center;
+    justify-items: center;
+}
+.class40{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:400px;
+    height:40px;
+    text-align: center;
+    background-color: #a1a3a5;
+}
+.class46{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:400px;
+    height:40px;
+    text-align: center;
+    background-color: #a1a3a5;
+}
+
+.parent5 img{
+    width:30px;
+}
+.parent5{
+    display: flex;
+    padding-left: 40px;
 }
