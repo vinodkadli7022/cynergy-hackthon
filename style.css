@@ -233,10 +233,14 @@ button{
     margin-top: 50px;
 }
 .class52{
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 a{
-    color:#686a6c
+    color:#686a6c;
+    text-decoration: none;
+}
+.class53{
+    margin-left: 30px;
 }
 
